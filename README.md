@@ -1,4 +1,4 @@
-# finance-vue
+# Vue.js Application for Finance Department in Oman Charitable Organization
 
 ## Project setup
 ```
